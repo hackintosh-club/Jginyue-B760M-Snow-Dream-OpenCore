@@ -22,6 +22,8 @@
 - 内存: 铭瑄白猎鹰16GBx2 DDR4 3200Mhz + 星驰星耀 16GBx2 DDR4 3200Mhz
 - 硬盘: 三星 SSD 980 1TB MacOS
 - 硬盘: 盈通 1TB Windows
+- 硬盘: 东芝 DT01ACA100 1TB 机械硬盘
+- 硬盘: 西数 WD30EZRX-19DCOB0 3TB 机械硬盘
 - 核显: 英特尔超核心显卡770 (仅在Windows中可以使用)
 - 独显: 华硕 Radeon RX 5700XT 8GB GDDR6
 - 声卡: 瑞昱 ALC897
