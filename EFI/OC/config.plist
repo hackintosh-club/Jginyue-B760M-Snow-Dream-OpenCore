@@ -5,7 +5,7 @@
         <key>#About</key>
         <string>B站UP：乌龙蜜桃来一打</string>
         <key>#Website</key>
-        <string>https://github.com/WuLongMiTaoLaiYiDa/JINGYUE-B760I-SNOW-DREAM-OpenCore</string>
+        <string>https://github.com/hackintosh-club/Jginyue-B760M-Snow-Dream-OpenCore</string>
         <key>ACPI</key>
         <dict>
             <key>Add</key>
