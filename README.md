@@ -1,4 +1,4 @@
-## 精粤 B760I SNOW DREAM 黑苹果 OpenCore EFI
+## 精粤 B760M SNOW DREAM 黑苹果 OpenCore EFI
 
 ![image](ScreenShot/JINGYUEB760M.jpg)
 
